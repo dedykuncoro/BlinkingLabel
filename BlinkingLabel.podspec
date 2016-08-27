@@ -24,9 +24,9 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/dedykuncoro/BlinkingLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Dedy Kuncoro' => 'dedykuncoro@github.com' }
+  s.author           = { 'Dedy Kuncoro' => 'dedy.kuncoro.07@gmail.com' }
   s.source           = { :git => 'https://github.com/dedykuncoro/BlinkingLabel.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://twitter.com/dedy_kunc0r0'
 
   s.ios.deployment_target = '8.0'
 
