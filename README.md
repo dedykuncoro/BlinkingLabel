@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Ujuizi Lab's, dedy.kuncoro@cheetah.ujuizi.com
+Dedy Kuncoro, dedy.kuncoro.07@gmail.com
 
 ## License
 
